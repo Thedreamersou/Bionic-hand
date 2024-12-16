@@ -1,0 +1,1 @@
+smimport('full hand robotic.xml')
